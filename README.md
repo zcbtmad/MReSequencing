@@ -2,7 +2,7 @@
 ## Sequencing data for all constructs analysed during Giovanni's MRes. 
 The files are in FASTA format. They can be downloaded and analysed in sequencing alignment software. I used Benchling platform which relies on MAFFT software.
 
-_Note: the sequences of particular interest used in the study are S4, S7 and S8.
+_Note: the sequences of particular interest used in the study are S4, S7 and S8._
 
 To read the files data you can click on the text.file. Alternatively download it to view it on an alignment software.
 
