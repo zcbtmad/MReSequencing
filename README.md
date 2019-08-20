@@ -7,12 +7,12 @@ _Note: the sequences of particular interest used in the study are S4, S7 and S8.
 To read the files data you can click on the text.file. Alternatively download it to view it on an alignment software.
 
 ### Template will read:
-> **>Sequence
+> >Sequence name
 
 >'---XXXXXXXXXXX---'
 
 ### Sequencing data will read:
-> **>primer name
+> >Primer name
 
 > '---XXXXXXXXXXX---'
 
